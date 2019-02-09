@@ -4,7 +4,7 @@ import datetime
 import time
 import json
 import math
-logfile = "D:/test_log.txt"
+logfile = "test_log.txt"
 
 file = open(logfile, "r")
 ips = []
